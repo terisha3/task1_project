@@ -1,0 +1,6 @@
+//asks for users input 
+let userInput = prompt("Enter a number")
+
+//prints out user input
+console.log(userInput)
+
